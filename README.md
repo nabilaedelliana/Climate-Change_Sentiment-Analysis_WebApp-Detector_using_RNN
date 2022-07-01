@@ -3,7 +3,7 @@ This is a deep learning project about sentiment detection towards Climate Change
 
 Jump to my web Apps by clicking the button below
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://climate-change-sentiment-fe-ed.herokuapp.com//)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://climate-change-sentiment-fe-ed.herokuapp.com/)
 
 or use the link below
 
